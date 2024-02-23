@@ -1,0 +1,5 @@
+src\test\features\ContactUsForm.feature:4
+src\test\features\LoginUserCorrectDetails.feature:4
+src\test\features\RegisterUser.feature:4
+src\test\features\RegisterUserWithExistingUser.feature:4
+src\test\features\SearchProduct.feature:3

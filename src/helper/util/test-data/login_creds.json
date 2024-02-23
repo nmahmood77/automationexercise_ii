@@ -1,0 +1,7 @@
+{
+    "email": "iitest@ii.com",
+    "password": "iitestuser",
+    "invalidPassword": "invalidpassword123",
+    "subject" : "Test Subject",
+    "message" : "Test Message"
+}
